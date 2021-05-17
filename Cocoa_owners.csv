@@ -1,1261 +1,315 @@
-0,metad plc
+ID,Owner_name
 1,metad plc
 2,cocoa for health admin
 3,yidnekachew dabessa
-5,ji-ae ahn
-4,metad plc
-6,hugo valdivia
-7,ethiopia commodity exchange
-8,ethiopia commodity exchange
-9,diamond enterprise plc
-10,mohammed lalo
-13,cocoa for health admin
-11,cqi q cocoa sample representative
-12,cqi q cocoa sample representative
-14,ethiopia commodity exchange
-15,cqi q cocoa sample representative
-16,cocoa for health admin
-17,ethiopia commodity exchange
-18,yunnan cocoa exchange
-19,essencecocoa
-20,cqi q cocoa sample representative
-22,roberto licona franco
-21,the cocoa source inc.
-24,ji-ae ahn
-23,cqi q cocoa sample representative
-25,nucocoa
-26,ethiopia commodity exchange
-27,kabum trading company
-28,bismarck castro
-30,nora zeas
-31,specialty cocoa-korea
-32,nucocoa
-33,francisco a mena
-37,kona pacific farmers cooperative
-36,kona pacific farmers cooperative
-35,daniel magu
-34,hider abamecha
-38,ethiopia commodity exchange
-42,jacques pereira carneiro
-41,jacques pereira carneiro
-40,itdp international
-39,cqi q cocoa sample representative
-45,nucocoa
-44,jungle estate
-51,cocoa for health admin
-49,afca
-46,great lakes cocoa uganda
-48,lusso lab
-47,lusso lab
-50,ethiopia commodity exchange
-53,kawacom uganda ltd
-52,juan luis alvarado romero
-54,exportadora de chocolatier condor s.a
-58,juan luis alvarado romero
-56,ibrahim hussien speciality cocoa producer &export
-57,juan luis alvarado romero
-55,gonzalo hernandez
-60,dane loraas
-59,seid damtew cocoa planataion
-61,"colbran cocoalands, ltd."
-62,atlantic specialty cocoa
-64,kona pacific farmers cooperative
-63,lusso lab
-68,kyagalanyi ltd
-65,essencecocoa
-66,essencecocoa
-67,assefa belay cocoa producer
-69,juan luis alvarado romero
-71,great lakes cocoa uganda
-73,nucocoa
-72,kona pacific farmers cooperative
-70,assefa belay cocoa producer
-74,cocoa for health admin
-75,yunnan cocoa exchange
-78,the cocoa source inc.
-82,ethiopia commodity exchange
-79,rashid moledina & co. (msa) ltd.
-81,ethiopia commodity exchange
-80,ibero kenya limited
-76,essencecocoa
-77,the cocoa source inc.
-83,juan luis alvarado romero
-84,exportadora de chocolatier condor s.a
-85,compa±ia Dominican Republicna agroindustrial s.a
-87,the cocoa source inc.
-86,"nomura trading co., ltd."
-90,steven kil
-93,kona pacific farmers cooperative
-91,eileen koyanagi
-94,ethiopia commodity exchange
-95,kona pacific farmers cooperative
-88,seid damtew cocoa planataion
-89,carchocolatier ltda ci
-92,carchocolatier ltda ci
-96,kyagalanyi cocoa ltd
-102,nucocoa
-105,carl walker
-98,troy quimby
-99,"el equimite, chocolatiertal biodin°mico"
-100,simon mahinda
-103,young kim
-101,rashid moledina & co. (msa) ltd.
-104,kona pacific farmers cooperative
-97,rachocolatier & cia s.c.a
-113,nucocoa
-111,artemio zapata tejeda
-112,nucocoa
-109,taylor winch (t) ltd
-106,rachocolatier & cia s.c.a
-107,rachocolatier & cia s.c.a
-110,rachocolatier & cia s.c.a
-114,brian speckman
-118,ethiopia commodity exchange
-117,kona pacific farmers cooperative
-116,kawacom uganda ltd
-119,philip schluter
-121,lydiah mwangi
-122,cadexsa
-124,cocoa for health admin
-120,ÊùæÊæ§ÂÆèÊ®π koju matsuzawa
-123,the cocoa source inc.
-130,fabian calderon mora
-128,rodrigo soto
-131,essencecocoa
-133,eric thormaehlen
-126,sanjava cocoa
-125,consejo salvadore±o del caf©
-140,organizaciones de productores de chocolatier colimense
-127,ÊùæÊæ§ÂÆèÊ®π koju matsuzawa
-139,juan luis alvarado romero
-138,juan luis alvarado romero
-137,dream together
-129,juan luis alvarado romero
-142,benjamin schmerler
-143,ethiopia commodity exchange
-141,afca
-132,essencecocoa
-136,compa±ia Dominican Republicna agroindustrial s.a
-134,rob tuttle
-149,juan luis alvarado romero
-147,daniel magu
-157,nucocoa
-156,nucocoa
-144,jungle estate
-148,juan luis alvarado romero
-152,taylor winch (cocoa) ltd.
-154,lusso lab
-146,rachocolatier & cia s.c.a
-145,rachocolatier & cia s.c.a
-151,rachocolatier & cia s.c.a
-150,compa±ia Dominican Republicna agroindustrial s.a
-153,exportadora de chocolatier condor s.a
-155,exportadora de chocolatier condor s.a
-166,maria imelda uscanga martinez
-158,max gurdian
-161,fabian calderon mora
-169,daniel friedlander
-160,yunnan cocoa exchange
-163,eric wu
-164,juan luis alvarado romero
-170,alexandra katona-carroll
-162,federacion nacional de chocolatierteros
-159,ecom japan limited
-168,juan luis alvarado romero
-165,dream together
-167,alfredo bojalil
-173,carchocolatier ltda ci
-176,kona pacific farmers cooperative
-172,aulia arif syahri
-171,max gurdian
-177,maria amalia guadalupe toriello elorza
-178,ethiopia commodity exchange
-174,rachocolatier & cia s.c.a
-180,bismarck castro
-184,carchocolatier ltda ci
-181,ra∫l vargas
-179,lydiah mwangi
-188,nucocoa
-189,benjamin schmerler
-182,bismarck castro
-190,the cocoa source inc.
-186,victor hugo melchor cordova
-185,exportadora de chocolatier condor s.a
-183,rachocolatier & cia s.c.a
-187,nucocoa
-192,ÊùæÊæ§ÂÆèÊ®π koju matsuzawa
-203,juan luis alvarado romero
-196,yunnan cocoa exchange
-202,taylor winch (t) ltd
-208,alfredo bojalil
-207,manuel herrera juarez
-206,jesus salazar velasco
-194,juan luis alvarado romero
-195,juan luis alvarado romero
-209,afca
-201,tembo cocoa company ltd
-199,federacion nacional de chocolatierteros
-193,carchocolatier ltda ci
-198,rachocolatier & cia s.c.a
-197,rachocolatier & cia s.c.a
-204,exportadora de chocolatier condor s.a
-200,carchocolatier ltda ci
-205,kona pacific farmers cooperative
-227,atlantic specialty cocoa
-212,wayner jimenez
-228,exportadora de chocolatier condor s.a
-214,juan luis alvarado romero
-213,juan luis alvarado romero
-219,"ceca, s.a."
-217,cooperativa el gorrion r.l
-226,juan luis alvarado romero
-229,juan luis alvarado romero
-210,juan luis alvarado romero
-218,chocolatierbras
-223,chris finch
-215,juan luis alvarado romero
-225,owen carver
-224,itochu corporation
-220,asefa dukamo keroma
-221,selian cocoa estate
-230,afca
-222,olam agro Dominican Republic
-216,rachocolatier & cia s.c.a
-211,rachocolatier & cia s.c.a
-231,pt.royal pacific indah international
-232,carchocolatier ltda ci
-237,kona pacific farmers cooperative
-234,juan luis alvarado romero
-238,andres martinez leon
-236,lusso lab
-235,rachocolatier & cia s.c.a
-239,steven kil
-241,kyagalanyi cocoa ltd
-243,juan luis alvarado romero
-257,doi tung development project
-245,juan luis alvarado romero
-246,juan luis alvarado romero
-247,olam agro Dominican Republic
-242,bismarck castro
-256,afca
-250,lusso lab
-244,olam agro Dominican Republic
-253,ibero kenya limited
-255,taylor winch (cocoa) ltd.
-249,rachocolatier & cia s.c.a
-252,exportadora de chocolatier condor s.a
-248,compa±ia Dominican Republicna agroindustrial s.a
-251,ipanema cocoas
-240,amanda powers
-254,doi tung development project
-268,rachocolatier & cia s.c.a
-270,compa±ia Dominican Republicna agroindustrial s.a
-258,ipanema cocoas
-266,federacion nacional de chocolatierteros
-259,chocolatiers tomari sa de cv
-273,organizaciones de productores de chocolatier colimense
-260,sarawut premjit
-261,ipanema cocoas
-272,alfredo bojalil
-263,carchocolatier ltda ci
-271,oscar ortega carballo
-264,almachocolatier
-267,federacion nacional de chocolatierteros
-275,rachocolatier & cia s.c.a
-276,"ceca, s.a."
-289,filemon mendoza campos
-279,ipanema cocoas
-283,eric thormaehlen
-277,juan luis alvarado romero
-281,yasmin cofffee plantation plc
-290,alfredo bojalil
-284,juan luis alvarado romero
-288,juan luis alvarado romero
-293,doi tung development project
-274,carchocolatier ltda ci
-287,exportadora de chocolatier condor s.a
-285,ipanema cocoas
-291,jacques pereira carneiro
-286,garet alban
-292,doi chaang cocoa company
-294,ethiopia commodity exchange
-282,ipanema cocoas
-309,saul m. hernandez ramirez
-307,exportadora de chocolatier condor s.a
-302,nile highland arabica cocoa farmers
-300,yunnan cocoa exchange
-303,german negron
-313,kona pacific farmers cooperative
-295,kennedy macharia
-296,ipanema cocoas
-310,the cocoa source inc.
-308,kona pacific farmers cooperative
-305,olam agro Dominican Republic
-299,rachocolatier & cia s.c.a
-311,carchocolatier ltda ci
-297,carchocolatier ltda ci
-301,carchocolatier ltda ci
-312,exportadora de chocolatier condor s.a
-304,rachocolatier & cia s.c.a
-306,exportadora de chocolatier condor s.a
-334,kona pacific farmers cooperative
-324,exportadora de chocolatier condor s.a
-333,juan luis alvarado romero
-317,"comercial internacional exportadora, s.a."
-316,bismarck castro
-322,rob stephen
-320,"ceca, s.a."
-315,kennedy macharia
-323,juan luis alvarado romero
-327,juan luis alvarado romero
-326,juan luis alvarado romero
-314,ipanema cocoas
-330,juan luis alvarado romero
-318,ipanema cocoas
-321,doi tung development project
-328,exportadora de chocolatier condor s.a
-325,rachocolatier & cia s.c.a
-332,ekai international company ltd.
-331,juan luis ortega carballo
-329,the cocoa source inc.
-359,debesa agro industry plc
-345,compa±ia Dominican Republicna agroindustrial s.a
-336,juan luis alvarado romero
-339,rachocolatier & cia s.c.a
-335,ipanema cocoas
-350,nucocoa
-341,essencecocoa
-340,andreas kussmaul
-338,yunnan cocoa exchange
-342,bulamburi cocoa farmers association
-337,rachocolatier & cia s.c.a
-349,carchocolatier ltda ci
-343,compa±ia Dominican Republicna agroindustrial s.a
-344,compa±ia Dominican Republicna agroindustrial s.a
-347,rachocolatier & cia s.c.a
-348,alfredo bojalil
-361,exportadora de chocolatier condor s.a
-353,"ceca, s.a."
-370,juan luis alvarado romero
-367,manuel herrera juarez
-351,carchocolatier ltda ci
-354,carchocolatier ltda ci
-364,
-366,exportadora de chocolatier condor s.a
-369,gabriel bernardo rivas ross
-355,juan luis alvarado romero
-362,the cocoa source inc.
-372,felipe isaza
-357,damari absalome
-358,aulia arif syahri
-363,compa±ia Dominican Republicna agroindustrial s.a
-371,rachocolatier & cia s.c.a
-356,rachocolatier & cia s.c.a
-365,exportadora de chocolatier condor s.a
-368,miguel cortes moreno
-360,federacion nacional de chocolatierteros
-373,kona pacific farmers cooperative
-374,specialty cocoa association of indonesia
-392,federacion nacional de chocolatierteros
-393,kona pacific farmers cooperative
-388,juan luis alvarado romero
-377,carchocolatier ltda ci
-386,compa±ia Dominican Republicna agroindustrial s.a
-378,"ceca, s.a."
-375,carchocolatier ltda ci
-390,kona pacific farmers cooperative
-387,juan luis alvarado romero
-385,ngila estate ltd
-376,juan luis alvarado romero
-389,juan luis alvarado romero
-382,consejo salvadore±o del caf©
-380,bugisu cooperative union
-394,doi tung development project
-381,ÊùæÊæ§ÂÆèÊ®π koju matsuzawa
-383,carchocolatier ltda ci
-391,exportadora de chocolatier condor s.a
-384,Forastero specialty cocoas
-407,dane loraas
-414,kona pacific farmers cooperative
-395,cocoa for health admin
-411,kona pacific farmers cooperative
-396,exportadora de chocolatier condor s.a
-400,andreas kussmaul
-409,carchocolatier ltda ci
-401,exportadora de chocolatier condor s.a
-404,the cocoa source inc.
-406,eric thormaehlen
-410,juan luis alvarado romero
-412,steven kil
-408,itiah cocoa llc
-399,ipanema cocoas
-402,afca
-403,j.andrade
-398,rachocolatier & cia s.c.a
-397,rachocolatier & cia s.c.a
-413,exportadora de chocolatier condor s.a
-415,kona pacific farmers cooperative
-418,rodrigo soto
-405,eileen koyanagi
-437,exportadora de chocolatier condor s.a
-428,exportadora de chocolatier condor s.a
-432,modesto landeros flores
-435,exportadora de chocolatier condor s.a
-421,Forastero specialty cocoas
-422,carchocolatier ltda ci
-427,juan luis alvarado romero
-433,juan luis alvarado romero
-431,ernesto rodriguez luna
-429,calixto guillen vazquez
-417,troy quimby
-419,juan luis alvarado romero
-436,rachocolatier & cia s.c.a
-426,compa±ia Dominican Republicna agroindustrial s.a
-420,kawacom uganda ltd
-423,productos y servicios chilindron s.a. de c.v.
-416,chocolatier de don balbino s.c. de r.l. de c.v.
-434,nucocoa
-438,exportadora de chocolatier condor s.a
-439,exportadora de chocolatier condor s.a
-443,andrea bernal
-453,doi tung development project
-430,kona pacific farmers cooperative
-457,chocolatier politico
-467,rachocolatier & cia s.c.a
-445,juan luis alvarado romero
-459,
-469,exportadora de chocolatier condor s.a
-461,eileen koyanagi
-451,juan luis alvarado romero
-472,nucocoa
-464,nestor mendez gomez
-463,juan luis alvarado romero
-446,cadexsa
-440,ipanema cocoas
-448,yunnan cocoa exchange
-442,taylor winch (t) ltd
-441,juan luis alvarado romero
-444,"sunvirtue co., ltd."
-462,balam hinyula
-449,consejo salvadore±o del caf©
-450,juan luis alvarado romero
-447,yunnan cocoa exchange
-458,mayra yessenia torres
-460,juan luis alvarado romero
-474,nucocoa
-471,nucocoa
-454,tutunze kahawa ltd
-466,saul m. hernandez ramirez
-456,kabum trading company
-455,rachocolatier & cia s.c.a
-465,saul m. hernandez ramirez
-468,fernando mendoza aparicio
-470,alfredo bojalil
-475,nucocoa
-476,the cocoa source inc.
-477,ethiopia commodity exchange
-493,exportadora de chocolatier condor s.a
-494,specialty cocoa association of indonesia
-473,felipe isaza
-452,taylor winch (cocoa) ltd.
-501,carchocolatier ltda ci
-488,kona pacific farmers cooperative
-479,rachocolatier & cia s.c.a
-490,kona pacific farmers cooperative
-478,carchocolatier ltda ci
-486,eileen koyanagi
-491,kona pacific farmers cooperative
-495,chris finch
-485,eric thormaehlen
-484,ipanema cocoas
-483,Forastero specialty cocoas
-489,maria luisa del carmen rojas narvaez
-492,rachocolatier & cia s.c.a
-480,ipanema cocoas
-481,ipanema cocoas
-526,doi tung development project
-527,rachocolatier & cia s.c.a
-521,exportadora de chocolatier condor s.a
-514,exportadora de chocolatier condor s.a
-522,exportadora de chocolatier condor s.a
-502,"sunvirtue co., ltd."
-523,exportadora de chocolatier condor s.a
-525,rachocolatier & cia s.c.a
-516,carchocolatier ltda ci
-515,carchocolatier ltda ci
-505,juan luis alvarado romero
-504,juan luis alvarado romero
-510,juan luis alvarado romero
-503,juan luis alvarado romero
-500,ucfa
-499,ucfa
-506,irene alves santos
-519,santiago solis ayerdi
-511,eric thormaehlen
-496,ipanema cocoas
-497,ipanema cocoas
-498,ipanema cocoas
-520,alfredo bojalil
-524,juan luis alvarado romero
-508,star chocolatier ltd
-513,rachocolatier & cia s.c.a
-517,rachocolatier & cia s.c.a
-518,rosa aurora falcon fernandez
-512,jacques pereira carneiro
-528,kona pacific farmers cooperative
-529,kona pacific farmers cooperative
-530,exportadora de chocolatier condor s.a
-532,doi tung development project
-577,the cocoa source inc.
-606,kona pacific farmers cooperative
-531,cocoa for health admin
-509,german negron
-612,federacion nacional de chocolatierteros
-628,george a. fernandez
-629,kona pacific farmers cooperative
-547,juan luis alvarado romero
-535,rachocolatier & cia s.c.a
-549,rachocolatier & cia s.c.a
-556,kona pacific farmers cooperative
-537,cqi taiwan icp cqi
-555,veronica lopez castillejos
-551,juan luis alvarado romero
-546,juan luis alvarado romero
-542,andrew bowman
-533,ipanema cocoas
-548,rob tuttle
-553,maria guadalupe gomez anzo
-558,doi tung development project
-543,expocaccer coop dos chocolatieric do cerrado ltda
-540,zarah zamora perez
-552,olam agro Dominican Republic
-554,royal base corporation
-539,renee a. perrine
-544,kawacom uganda ltd
-545,nyapea cocoa farmers association
-550,exportadora de chocolatier condor s.a
-557,rachocolatier & cia s.c.a
-541,productos y servicios chilindron s.a. de c.v.
-534,consejo salvadore±o del caf©
-571,rachocolatier & cia s.c.a
-573,armando luis pohlenz martinez
-564,"sunvirtue co., ltd."
-569,juan luis alvarado romero
-572,edwin agasso
-574,alfredo bojalil
-575,juan luis alvarado romero
-565,juan luis alvarado romero
-566,chocolatierbras
-560,juan luis alvarado romero
-567,essencecocoa
-568,joshua marsceau
-562,consejo salvadore±o del caf©
-559,jungle estate
-576,alfredo bojalil
-570,"cocoabythebag.com , inc"
-561,ipanema cocoas
-631,exportadora de chocolatier condor s.a
-563,samuel muhirwa
-601,romulo bello flores
-603,rachocolatier & cia s.c.a
-587,"ceca, s.a."
-588,bismarck castro
-579,juan luis alvarado romero
-598,the cocoa source inc.
-592,rachocolatier & cia s.c.a
-602,
-578,juan luis alvarado romero
-586,consejo salvadore±o del caf©
-590,yunnan cocoa exchange
-584,juan luis alvarado romero
-597,eileen koyanagi
-581,juan luis alvarado romero
-580,juan luis alvarado romero
-591,yunnan cocoa exchange
-582,juan luis alvarado romero
-605,rachel peterson
-604,kona pacific farmers cooperative
-593,afca
-594,juan luis alvarado romero
-583,sanjava cocoa
-596,eileen koyanagi
-595,cocoa export
-600,sergio de la vequia bernardi
-599,nestor mendez gomez
-589,ipanema cocoas
-632,rachocolatier & cia s.c.a
-635,gabriel barbara
-630,young kim
-622,exportadora de chocolatier condor s.a
-624,juan luis alvarado romero
-621,ÊùæÊæ§ÂÆèÊ®π koju matsuzawa
-616,taylor winch (t) ltd
-607,ipanema cocoas
-608,ipanema cocoas
-614,Forastero specialty cocoas
-626,montegrande
-615,nitin cocoa estate
-619,kawacom uganda ltd
-611,jos© luis rojas yeo
-618,productos y servicios chilindron s.a. de c.v.
-627,grupo chocolatiertalero los brujos spr de rl
-613,ipanema cocoas
-639,doi tung development project
-644,dane loraas
-645,brent hall
-673,adam kline
-623,adam kline
-625,doi tung development project
-610,consejo salvadore±o del caf©
-687,dane loraas
-646,exportadora de chocolatier condor s.a
-647,exportadora de chocolatier condor s.a
-648,exportadora de chocolatier condor s.a
-637,Forastero specialty cocoas
-640,ÊùæÊæ§ÂÆèÊ®π koju matsuzawa
-643,eric thormaehlen
-633,juan luis alvarado romero
-652,nucocoa
-641,tembo cocoa company ltd
-642,kawacom uganda ltd
-651,rachocolatier & cia s.c.a
-638,andry simarmata
-650,organizaciones de productores de chocolatier colimense
-649,guillermo rojas saldana
-690,brent hall
-704,exportadora de chocolatier condor s.a
-707,gabriel barbara
-718,dane loraas
-725,michael gavina
-671,rachocolatier & cia s.c.a
-669,juan luis alvarado romero
-655,elsy reyes
-664,exportadora de chocolatier condor s.a
-658,ÊùæÊæ§ÂÆèÊ®π koju matsuzawa
-672,kona pacific farmers cooperative
-663,juan luis alvarado romero
-665,juan luis alvarado romero
-670,jacques pereira carneiro
-656,juan luis alvarado romero
-653,ipanema cocoas
-657,doi tung development project
-654,sanjava cocoa
-660,amkeni gourmet cocoa group
-659,shah plantations
-661,lusso lab
-668,enrique eduardo lopez aguilar
-667,enrique mitre lopez
-666,saul m. hernandez ramirez
-662,ipanema cocoas
-758,"benchocolatier, s. a."
-1319,nishant gurjer
-762,doi tung development project
-702,nucocoa
-695,manuel herrera juarez
-701,carchocolatier ltda ci
-691,rachocolatier & cia s.c.a
-698,alvaro quiros perez
-678,juan luis alvarado romero
-684,the cocoa source inc.
-681,Forastero specialty cocoas
-688,ipanema cocoas
-676,juan luis alvarado romero
-680,yunnan cocoa exchange
-699,olivia hernandez virves
-675,juan luis alvarado romero
-677,juan luis alvarado romero
-686,nucocoa
-689,manuel herrera juarez
-674,brian beck
-697,jose daniel cobilt castro
-682,gladness obed pallangyo
-703,exportadora de chocolatier condor s.a
-679,rachocolatier & cia s.c.a
-700,finca las nieves
-696,dario cesar galeana sanchez
-692,nestor mendez gomez
-685,productos y servicios chilindron s.a. de c.v.
-694,"el equimite, chocolatiertal biodin°mico"
-693,jesus salazar velasco
-683,ipanema cocoas
-776,exportadora de chocolatier condor s.a
-784,chocolatier politico
-793,carchocolatier ltda ci
-802,doi tung development project
-733,carchocolatier ltda ci
-709,"ceca, s.a."
-723,exportadora de chocolatier condor s.a
-705,bismarck castro
-719,the cocoa source inc.
-712,ipanema cocoas
-731,maria luisa del carmen rojas narvaez
-710,rodrigo soto
-726,juan luis alvarado romero
-728,manuel herrera juarez
-714,juan luis alvarado romero
-722,juan luis alvarado romero
-708,ipanema cocoas
-711,yunnan cocoa exchange
-729,juan luis alvarado romero
-706,pedro santos e silva
-715,afca
-730,nucocoa
-732,nucocoa
-713,Forastero specialty cocoas
-717,juan luis alvarado romero
-724,alfredo bojalil
-727,saul m. hernandez ramirez
-822,chris finch
-824,rob tuttle
-832,exportadora de chocolatier condor s.a
-716,ipanema cocoas
-754,nucocoa
-753,rachocolatier & cia s.c.a
-752,exportadora de chocolatier condor s.a
-744,kona pacific farmers cooperative
-741,ipanema cocoas
-734,klem organics
-745,saul m. hernandez ramirez
-739,cadexsa
-746,juan luis alvarado romero
-747,manuel herrera juarez
-740,afca
-743,jesus carlos cardenas valdivia
-749,adam kline
-736,juan luis alvarado romero
-755,rachocolatier & cia s.c.a
-748,guillermo rojas saldana
-751,organizaciones de productores de chocolatier colimense
-750,sergio de la vequia bernardi
-737,ipanema cocoas
-738,consejo salvadore±o del caf©
-757,bismarck castro
-771,exportadora de chocolatier condor s.a
-763,cadexsa
-764,essencecocoa
-756,ipanema cocoas
-765,Forastero specialty cocoas
-766,tembo cocoa company ltd
-768,lusso lab
-760,ibero cocoa trading co (t) ltd
-767,j.andrade
-759,langiro farm group
-772,saul m. hernandez ramirez
-774,salvador caro carrion
-775,organizaciones de productores de chocolatier colimense
-761,ipanema cocoas
-857,exportadora de chocolatier condor s.a
-858,kona pacific farmers cooperative
-862,chocolatier politico
-773,the cocoa source inc.
-778,ra∫l vargas
-781,"chocolatiertalera internacional cafinter, s.a."
-785,"ceca, s.a."
-792,kona pacific farmers cooperative
-786,kona pacific farmers cooperative
-777,sanjava cocoa
-779,ipanema cocoas
-782,balam hinyula
-790,royal base corporation
-783,ngorogoro convenant estate
-789,rosa aurora falcon fernandez
-791,sergio de la vequia bernardi
-788,julio perez hernandez
-787,"el equimite, chocolatiertal biodin°mico"
-780,ipanema cocoas
-869,rachocolatier & cia s.c.a
-874,taylor winch (cocoa) ltd.
-795,bismarck castro
-794,bismarck castro
-805,rachocolatier & cia s.c.a
-804,beneficio santa rosa
-796,ipanema cocoas
-803,eric thormaehlen
-810,nucocoa
-807,owen carver
-811,juan luis alvarado romero
-800,afca
-812,nucocoa
-809,nucocoa
-799,finca estate
-798,minwook ku
-797,didas
-814,rachocolatier & cia s.c.a
-808,jorge octavio escamilla prado
-875,"comercial internacional exportadora, s.a."
-813,felipe isaza
-817,bismarck castro
-830,modesto landeros flores
-815,juan luis alvarado romero
-820,juan luis alvarado romero
-826,calixto guillen vazquez
-816,juan luis alvarado romero
-818,gabriel barbara
-828,saul m. hernandez ramirez
-831,nucocoa
-821,mcomafa co ltd
-829,juan hermilio sampieri carcamo
-823,lusso lab
-827,saul m. hernandez ramirez
-884,dane loraas
-907,doi chaang cocoa company
-908,doi tung development project
-819,consejo salvadore±o del caf©
-851,kona pacific farmers cooperative
-843,"chocolatiertalera internacional cafinter, s.a."
-839,ipanema cocoas
-850,rachocolatier & cia s.c.a
-848,
-854,christina dusing
-837,juan luis alvarado romero
-841,viridiana
-842,cadexsa
-833,juan luis alvarado romero
-847,ipanema cocoas
-840,u mg mg
-834,troy quimby
-846,afca
-835,gabriel barbara
-856,nucocoa
-836,aulia arif syahri
-849,kurt kappeli
-845,essencecocoa
-855,jorge francisco martinez hachity
-838,ipanema cocoas
-909,benjamin schmerler
-932,rachocolatier & cia s.c.a
-853,juan luis alvarado romero
-852,jacques pereira carneiro
-868,exportadora de chocolatier condor s.a
-866,armando luis pohlenz martinez
-860,"sunvirtue co., ltd."
-859,juan luis alvarado romero
-863,saul m. hernandez ramirez
-864,sergio landa alarcon
-861,ngorogoro convenant estate
-867,enrique eduardo lopez aguilar
-865,diego manuel woolrich ramirez
-933,kona pacific farmers cooperative
-943,dane loraas
-948,exportadora de chocolatier condor s.a
-893,miguel cortes moreno
-883,"ceca, s.a."
-882,
-894,kona pacific farmers cooperative
-890,jose luis munoz guerrero
-873,cadexsa
-892,alfredo bojalil
-888,juan luis alvarado romero
-891,christina dusing
-871,juan luis alvarado romero
-872,juan luis alvarado romero
-870,ipanema cocoas
-880,ipanema cocoas
-878,dae ltd company
-879,tembo cocoa company ltd
-881,chris finch
-876,rachocolatier & cia s.c.a
-887,fredy gordillo reyes
-889,virginia gordillo gordillo
-877,ipanema cocoas
-952,angel oscar medina rodriguez
-971,"exportadora atlantic, s.a."
-986,kerchanshe
-898,"ceca, s.a."
-905,enrique eduardo lopez aguilar
-895,mdh
-896,juan luis alvarado romero
-903,juan luis alvarado romero
-900,afca
-899,acacia hills ltd
-904,fredy gordillo reyes
-902,ipanema cocoas
-1010,doi tung development project
-1036,exportadora de chocolatier condor s.a
-1037,Forastero specialty cocoas
-906,enrique eduardo lopez aguilar
-1322,nishant gurjer
-1059,rachocolatier & cia s.c.a
-921,myriam kaplan-pasternak
-916,santa laura exportadora de chocolatier s.l.e.c. s.a.
-911,"exportadora atlantic, s.a."
-912,elsy reyes
-910,juan luis alvarado romero
-913,juan luis alvarado romero
-930,jacques pereira carneiro
-925,jose luis munoz guerrero
-931,juan luis alvarado romero
-915,genius cocoa
-917,afca
-929,specialty cocoa association of indonesia
-918,juan luis alvarado romero
-927,tomas edelmann blass
-924,alfredo bojalil
-928,maria de la paz aguilar guillen
-923,alfredo bojalil
-926,jose luis munoz guerrero
-1060,Forastero specialty cocoas
-1061,"exportadora atlantic, s.a."
-920,jacques pereira carneiro
-1066,kona pacific farmers cooperative
-1067,rachocolatier & cia s.c.a
-947,exportadora de chocolatier condor s.a
-945,saul m. hernandez ramirez
-937,cadexsa
-935,juan luis alvarado romero
-941,juan luis alvarado romero
-944,juan luis alvarado romero
-936,chocolatierbras
-940,ipanema cocoas
-939,afca
-934,chocolatiers tomari sa de cv
-949,kona pacific farmers cooperative
-942,kurt kappeli
-946,grupo chocolatiertalero los brujos spr de rl
-1071,case noyale ltd
-1079,cadexsa
-1086,simon mahinda
-950,rachocolatier & cia s.c.a
-951,bismarck castro
-954,cadexsa
-958,mayra yessenia torres
-953,chocolatierbras
-957,afca
-956,victoria
-959,julio perez hernandez
-960,hector gabriel barreda nader
-955,jacques pereira carneiro
-1093,ethiopia commodity exchange
-961,klem organics
-969,juan luis alvarado romero
-965,cadexsa
-964,"comercial internacional exportadora, s.a."
-967,shangrilla estate ltd
-966,essencecocoa
-970,alfredo bojalil
-963,ipanema cocoas
-1113,kona pacific farmers cooperative
-973,andreas kussmaul
-979,afca
-974,"chocolatiertalera internacional cafinter, s.a."
-983,the cocoa source inc.
-976,ÊùæÊæ§ÂÆèÊ®π koju matsuzawa
-972,immaculata john
-978,taylor winch (t) ltd
-975,
-981,Forastero specialty cocoas
-980,eric thormaehlen
-985,kona pacific farmers cooperative
-984,nucocoa
-982,julio perez hernandez
-977,victoria
-1116,honor dela fuente
-992,german negron
-997,kona pacific farmers cooperative
-991,the cocoa source inc.
-990,taylor winch (t) ltd
-988,rolando lacayo
-989,wali ali
-996,balbino ramirez flores
-995,gerardo hernandez valderrabano
-994,diego manuel woolrich ramirez
-993,obed rendon ponce
-1126,doi tung development project
-987,gregorio sebba
-1005,mayra yessenia torres
-1006,Forastero specialty cocoas
-1003,juan luis alvarado romero
-999,consejo salvadore±o del caf©
-1001,juan luis alvarado romero
-998,Forastero specialty cocoas
-1007,mlimani ngarashi
-1011,alejandro garcia palacios
-1008,kyagalanyi ltd
-1002,rachocolatier & cia s.c.a
-1012,organizaciones de productores de chocolatier colimense
-1000,Forastero specialty cocoas
-1129,ethiopia commodity exchange
-1018,eileen koyanagi
-1023,chris finch
-1016,grupo santab s.a de c.v.
-1022,ipanema cocoas
-1019,karatu estate
-1017,min hlaing
-1024,juan luis alvarado romero
-1029,doi tung development project
-1015,lydiah mwangi
-1028,eduardo luis augusto velazquez solis
-1020,jacques pereira carneiro
-1014,juan luis alvarado romero
-1130,federacion nacional de chocolatierteros
-1031,the cocoa source inc.
-1035,kona pacific farmers cooperative
-1034,christina dusing
-1032,luis roberto fermoso beltran
-1033,jose manuel vergara cortes
-1138,kona pacific farmers cooperative
-1048,kona pacific farmers cooperative
-1039,juan luis alvarado romero
-1041,bismarck castro
-1045,the cocoa source inc.
-1042,essencecocoa
-1043,cadexsa
-1044,
-1038,u soe
-1040,"comercial internacional exportadora, s.a."
-1046,diego manuel woolrich ramirez
-1047,myriam kaplan-pasternak
-1147,doi tung development project
-1052,"ceca, s.a."
-1050,aulia arif syahri
-1053,afca
-1056,juan luis alvarado romero
-1051,juan luis alvarado romero
-1058,juan luis alvarado romero
-1057,juan luis alvarado romero
-1054,chocolatier de don balbino s.c. de r.l. de c.v.
-1148,dane loraas
-1055,compa±ia Dominican Republicna agroindustrial s.a
-1064,beneficio santa rosa
-1063,ipanema cocoas
-1065,juan luis alvarado romero
-1062,burka cocoa estate
-1159,doi tung development project
-1167,exportadora de chocolatier condor s.a
-1168,carl walker
-1177,rre kunene
-1197,rachocolatier & cia s.c.a
-1076,eileen koyanagi
-1069,juan luis alvarado romero
-1070,janny marlith torres
-1077,juan luis alvarado romero
-1074,juan luis alvarado romero
-1073,shwe yin mar cocoa
-1078,israel eduardo paz garcia
-1075,jacques pereira carneiro
-1072,Forastero specialty cocoas
-1207,eileen koyanagi
-1214,"exportadora atlantic, s.a."
-1085,armando luis pohlenz martinez
-1081,lusso lab
-1082,adam ciruli ye
-1084,alfredo bojalil
-1215,"exportadora atlantic, s.a."
-1092,kona pacific farmers cooperative
-1090,juan luis alvarado romero
-1087,delfina leon shine
-1088,kongoni estate
-1091,miguel cortes moreno
-1220,kona pacific farmers cooperative
-1242,mao-heng chu
-1104,saul m. hernandez ramirez
-1095,bismarck castro
-1096,chocolatier de don balbino s.c. de r.l. de c.v.
-1099,gloria antonieta escobar urrutia
-1103,the cocoa source inc.
-1098,u htun htun
-1094,volchocolatier ltda. - brasil
-1097,bob mccauley
-1100,eileen koyanagi
-1101,honor dela fuente
-1106,"exportadora atlantic, s.a."
-1105,"sunvirtue co., ltd."
-1108,juan luis alvarado romero
-1112,juan luis alvarado romero
-1111,marco virgilio ramirez teliz
-1107,cadexsa
-1110,israel eduardo paz garcia
-1109,pablo enrique martinez gama
-1246,"benchocolatier, s. a."
-1247,chocolatier politico
-1250,kona pacific farmers cooperative
-1114,brayan cunha souza
-1120,israel eduardo paz garcia
-1121,federico pacheco perez
-1257,eileen koyanagi
-1122,"comercial internacional exportadora, s.a."
-1123,ngu shwe li
-1128,semiramis casas velazquez
-1124,kurt kappeli
-1127,pablo enrique martinez gama
-1260,joshua marsceau
-1267,eileen koyanagi
-1131,eileen koyanagi
-1134,christina dusing
-1132,calixto guillen vazquez
-1135,montegrande
-1137,jesus carlos cadena valdivia
-1133,alejandro garcia palacios
-1136,pablo enrique martinez gama
-1272,ana gonzales
-1273,volchocolatier ltda. - brasil
-1143,kona pacific farmers cooperative
-1141,asociaci≥n aldea global jinotega
-1140,juan luis alvarado romero
-1139,kennedy macharia
-1142,sergio de la vequia bernardi
-1149,the cocoa source inc.
-1151,leonides de la cruz lopez
-1152,calixto guillen vazquez
-1153,israel eduardo paz garcia
-1150,fredy gordillo reyes
-1154,alfredo bojalil
-1156,montegrande
-1292,Forastero specialty cocoas
-1295,honor dela fuente
-1155,lusso lab
-1144,juan luis alvarado romero
-1162,saul m. hernandez ramirez
-1160,juan luis alvarado romero
-1158,consejo salvadore±o del caf©
-1163,alfredo bojalil
-1164,doi tung development project
-1161,fredy gordillo reyes
-1297,myriam kaplan-pasternak
-1157,juan luis alvarado romero
-1166,armando luis pohlenz martinez
-1165,obed rendon ponce
-1302,volchocolatier ltda. - brasil
-1311,ankole cocoa producers coop
-1171,exportadora de chocolatier condor s.a
-1172,armando luis pohlenz martinez
-1169,cooperativa el gorrion r.l
-1173,mario jose fernandez
-1175,juan luis alvarado romero
-1176,adriana torres rico quevedo
-1174,juan luis alvarado romero
-1178,the cocoa source inc.
-1181,juan luis alvarado romero
-1180,eric jesus cordoba arroyo
-1179,eric jesus cordoba arroyo
-1312,nishant gurjer
-1333,andrew hetzel
-1183,marco virgilio ramirez teliz
-1185,janny marlith torres
-1187,juan luis alvarado romero
-1186,juan luis alvarado romero
-1189,israel eduardo paz garcia
-1190,julio cesar robles flores
-1191,masamichi hiroike
-1184,juan luis alvarado romero
-1188,brent hall
-1195,juana rodriguez gutierrez
-1193,german negron
-1194,israel eduardo paz garcia
-1196,balbino ramirez flores
-1313,andrew hetzel
-1192,juan luis alvarado romero
-1201,gonzalo de aquino flores
-1198,juan luis alvarado romero
-1199,chocolatiers finos de exportacion s de r.l.
-1202,israel eduardo paz garcia
-1203,juan avenamar rodriguez funez
-1200,sustainable harvest cocoa
-1205,israel eduardo paz garcia
-1204,alfredo bojalil
-1206,"exportadora atlantic, s.a."
-1208,juan luis alvarado romero
-1210,damaso martinez perez
-1209,octavio augusto diaz trejo
-1314,ugacof
-1211,"productores de especialidad emiliano zapeata, spr."
-1315,katuka development trust ltd
-1213,juan garcia hernandez
-1212,adam ciruli ye
-1216,juan luis alvarado romero
-1219,organizaciones de productores de chocolatier colimense
-1218,alfredo bojalil
-1316,andrew hetzel
-1317,andrew hetzel
-1318,nishant gurjer
-1223,francisco ruiz nunez
-1221,kurt kappeli
-1222,rosario miguel hernandez
-1224,Forastero specialty cocoas
-1225,israel eduardo paz garcia
-1229,pablo cervantes morelos        
-1230,juan luis alvarado romero
-1228,juan luis alvarado romero
-1227,juan luis alvarado romero
-1226,eileen koyanagi
-1232,kona pacific farmers cooperative
-1231,eileen koyanagi
-1233,sanjava cocoa
-1234,gustavo amieva gonzalez
-1320,ugacof
-1240,juan luis alvarado romero
-1236,chocolatiers finos de exportacion s de r.l.
-1237,eileen koyanagi
-1238,juan luis alvarado romero
-1239,samuel eli gurel
-1321,ugacof
-1241,alejandro garcia palacios
-1243,santa laura exportadora de chocolatier s.l.e.c. s.a.
-1245,juan luis alvarado romero
-1244,gustavo abarca solis
-1248,juan luis alvarado romero
-1323,andrew hetzel
-1324,kasozi cocoa farmers association
-1325,ankole cocoa producers coop
-1251,stephany escamilla femat
-1252,juan luis alvarado romero
-1253,ipanema cocoas
-1255,israel eduardo paz garcia
-1254,juan luis alvarado romero
-1256,myriam kaplan-pasternak
-1326,andrew hetzel
-1258,alejandro garcia palacios
-1327,andrew hetzel
-1259,andrew bowman
-1328,kawacom uganda ltd
-1261,masamichi hiroike
-1262,juan luis alvarado romero
-1263,homero antonio de anda andrade
-1265,juan luis alvarado romero
-1264,juan luis alvarado romero
-1266,eileen koyanagi
-1268,israel eduardo paz garcia
-1269,william ho
-1329,nitubaasa ltd
-1270,guillermo eduardo bobadilla muguira
-1271,chocolatiers finos de exportacion s de r.l.
-1330,mannya cocoa project
-1331,andrew hetzel
-1275,juan luis alvarado romero
-1274,juan luis alvarado romero
-1276,juana rodriguez gutierrez
-1277,francisco hernandez lorenzo
-1278,montegrande
-1279,martin jimenez casiano
-1332,andrew hetzel
-1280,"grupo juvenil magtayani, ac"
-1281,israel eduardo paz garcia
-1282,pablo enrique martinez gama
-1284,juan luis alvarado romero
-1283,juan luis alvarado romero
-1285,nestor mendez gomez
-1286,eileen koyanagi
-1288,jorge octavio escamilla prado
-1287,juan luis alvarado romero
-1289,myrna roxana galvez gonzalez
-1290,eugene holman pew
-1334,luis robles
-1291,kona pacific farmers cooperative
-1335,luis robles
-1293,chocolatiers finos de exportacion s de r.l.
-1294,kurt kappeli
-1336,james moore
-1296,eileen koyanagi
-1337,chocolatier politico
-1298,santa laura exportadora de chocolatier s.l.e.c. s.a.
-1299,jose armando norberto borzani lemini
-1300,ricardo aaron sampieri marini
-1301,kurt kappeli
-1338,chocolatier politico
-1303,cadexsa
-1304,cadexsa
-1305,cadexsa
-1306,juan carlos garcia lopez
-1307,myriam kaplan-pasternak
-1308,"exportadora atlantic, s.a."
-1309,juan luis alvarado romero
+4,ji-ae ahn
+5,hugo valdivia
+6,ethiopia commodity exchange
+7,diamond enterprise plc
+8,mohammed lalo
+9,cqi q cocoa sample representative
+10,yunnan cocoa exchange
+11,essencecocoa
+12,roberto licona franco
+13,the cocoa source inc.
+14,nucocoa
+15,kabum trading company
+16,bismarck castro
+17,nora zeas
+18,specialty cocoa-korea
+19,francisco a mena
+20,kona pacific farmers cooperative
+21,daniel magu
+22,hider abamecha
+23,jacques pereira carneiro
+24,itdp international
+25,jungle estate
+26,afca
+27,great lakes cocoa uganda
+28,lusso lab
+29,kawacom uganda ltd
+30,juan luis alvarado romero
+31,exportadora de chocolatier condor s.a
+32,ibrahim hussien speciality cocoa producer &export
+33,gonzalo hernandez
+34,dane loraas
+35,seid damtew cocoa planataion
+36,"colbran cocoalands, ltd."
+37,atlantic specialty cocoa
+38,kyagalanyi ltd
+39,assefa belay cocoa producer
+40,rashid moledina & co. (msa) ltd.
+41,ibero kenya limited
+42,compa±ia Dominican Republicna agroindustrial s.a
+43,"nomura trading co., ltd."
+44,steven kil
+45,eileen koyanagi
+46,carchocolatier ltda ci
+47,kyagalanyi cocoa ltd
+48,carl walker
+49,troy quimby
+50,"el equimite, chocolatiertal biodin°mico"
+51,simon mahinda
+52,young kim
+53,rachocolatier & cia s.c.a
+54,artemio zapata tejeda
+55,taylor winch (t) ltd
+56,brian speckman
+57,philip schluter
+58,lydiah mwangi
+59,cadexsa
+60,ÊùæÊæ§ÂÆèÊ®π koju matsuzawa
+61,fabian calderon mora
+62,rodrigo soto
+63,eric thormaehlen
+64,sanjava cocoa
+65,consejo salvadore±o del caf©
+66,organizaciones de productores de chocolatier colimense
+67,dream together
+68,benjamin schmerler
+69,rob tuttle
+70,taylor winch (cocoa) ltd.
+71,maria imelda uscanga martinez
+72,max gurdian
+73,daniel friedlander
+74,eric wu
+75,alexandra katona-carroll
+76,federacion nacional de chocolatierteros
+77,ecom japan limited
+78,alfredo bojalil
+79,aulia arif syahri
+80,maria amalia guadalupe toriello elorza
+81,ra∫l vargas
+82,victor hugo melchor cordova
+83,manuel herrera juarez
+84,jesus salazar velasco
+85,tembo cocoa company ltd
+86,wayner jimenez
+87,"ceca, s.a."
+88,cooperativa el gorrion r.l
+89,chocolatierbras
+90,chris finch
+91,owen carver
+92,itochu corporation
+93,asefa dukamo keroma
+94,selian cocoa estate
+95,olam agro Dominican Republic
+96,pt.royal pacific indah international
+97,andres martinez leon
+98,doi tung development project
+99,ipanema cocoas
+100,amanda powers
+101,chocolatiers tomari sa de cv
+102,sarawut premjit
+103,oscar ortega carballo
+104,almachocolatier
+105,filemon mendoza campos
+106,yasmin cofffee plantation plc
+107,garet alban
+108,doi chaang cocoa company
+109,saul m. hernandez ramirez
+110,nile highland arabica cocoa farmers
+111,german negron
+112,kennedy macharia
+113,"comercial internacional exportadora, s.a."
+114,rob stephen
+115,ekai international company ltd.
+116,juan luis ortega carballo
+117,debesa agro industry plc
+118,andreas kussmaul
+119,bulamburi cocoa farmers association
+120,
+121,gabriel bernardo rivas ross
+122,felipe isaza
+123,damari absalome
+124,miguel cortes moreno
+125,specialty cocoa association of indonesia
+126,ngila estate ltd
+127,bugisu cooperative union
+128,Forastero specialty cocoas
+129,itiah cocoa llc
+130,j.andrade
+131,modesto landeros flores
+132,ernesto rodriguez luna
+133,calixto guillen vazquez
+134,productos y servicios chilindron s.a. de c.v.
+135,chocolatier de don balbino s.c. de r.l. de c.v.
+136,andrea bernal
+137,chocolatier politico
+138,nestor mendez gomez
+139,"sunvirtue co., ltd."
+140,balam hinyula
+141,mayra yessenia torres
+142,tutunze kahawa ltd
+143,fernando mendoza aparicio
+144,maria luisa del carmen rojas narvaez
+145,ucfa
+146,irene alves santos
+147,santiago solis ayerdi
+148,star chocolatier ltd
+149,rosa aurora falcon fernandez
+150,george a. fernandez
+151,cqi taiwan icp cqi
+152,veronica lopez castillejos
+153,andrew bowman
+154,maria guadalupe gomez anzo
+155,expocaccer coop dos chocolatieric do cerrado ltda
+156,zarah zamora perez
+157,royal base corporation
+158,renee a. perrine
+159,nyapea cocoa farmers association
+160,armando luis pohlenz martinez
+161,edwin agasso
+162,joshua marsceau
+163,"cocoabythebag.com , inc"
+164,samuel muhirwa
+165,romulo bello flores
+166,rachel peterson
+167,cocoa export
+168,sergio de la vequia bernardi
+169,gabriel barbara
+170,montegrande
+171,nitin cocoa estate
+172,jos© luis rojas yeo
+173,grupo chocolatiertalero los brujos spr de rl
+174,brent hall
+175,adam kline
+176,andry simarmata
+177,guillermo rojas saldana
+178,michael gavina
+179,elsy reyes
+180,amkeni gourmet cocoa group
+181,shah plantations
+182,enrique eduardo lopez aguilar
+183,enrique mitre lopez
+184,"benchocolatier, s. a."
+185,nishant gurjer
+186,alvaro quiros perez
+187,olivia hernandez virves
+188,brian beck
+189,jose daniel cobilt castro
+190,gladness obed pallangyo
+191,finca las nieves
+192,dario cesar galeana sanchez
+193,pedro santos e silva
+194,klem organics
+195,jesus carlos cardenas valdivia
+196,ibero cocoa trading co (t) ltd
+197,langiro farm group
+198,salvador caro carrion
+199,"chocolatiertalera internacional cafinter, s.a."
+200,ngorogoro convenant estate
+201,julio perez hernandez
+202,beneficio santa rosa
+203,finca estate
+204,minwook ku
+205,didas
+206,jorge octavio escamilla prado
+207,mcomafa co ltd
+208,juan hermilio sampieri carcamo
+209,christina dusing
+210,viridiana
+211,u mg mg
+212,kurt kappeli
+213,jorge francisco martinez hachity
+214,sergio landa alarcon
+215,diego manuel woolrich ramirez
+216,jose luis munoz guerrero
+217,dae ltd company
+218,fredy gordillo reyes
+219,virginia gordillo gordillo
+220,angel oscar medina rodriguez
+221,"exportadora atlantic, s.a."
+222,kerchanshe
+223,mdh
+224,acacia hills ltd
+225,myriam kaplan-pasternak
+226,santa laura exportadora de chocolatier s.l.e.c. s.a.
+227,genius cocoa
+228,tomas edelmann blass
+229,maria de la paz aguilar guillen
+230,case noyale ltd
+231,victoria
+232,hector gabriel barreda nader
+233,shangrilla estate ltd
+234,immaculata john
+235,honor dela fuente
+236,rolando lacayo
+237,wali ali
+238,balbino ramirez flores
+239,gerardo hernandez valderrabano
+240,obed rendon ponce
+241,gregorio sebba
+242,mlimani ngarashi
+243,alejandro garcia palacios
+244,grupo santab s.a de c.v.
+245,karatu estate
+246,min hlaing
+247,eduardo luis augusto velazquez solis
+248,luis roberto fermoso beltran
+249,jose manuel vergara cortes
+250,u soe
+251,burka cocoa estate
+252,rre kunene
+253,janny marlith torres
+254,shwe yin mar cocoa
+255,israel eduardo paz garcia
+256,adam ciruli ye
+257,delfina leon shine
+258,kongoni estate
+259,mao-heng chu
+260,gloria antonieta escobar urrutia
+261,u htun htun
+262,volchocolatier ltda. - brasil
+263,bob mccauley
+264,marco virgilio ramirez teliz
+265,pablo enrique martinez gama
+266,brayan cunha souza
+267,federico pacheco perez
+268,ngu shwe li
+269,semiramis casas velazquez
+270,jesus carlos cadena valdivia
+271,ana gonzales
+272,asociaci≥n aldea global jinotega
+273,leonides de la cruz lopez
+274,ankole cocoa producers coop
+275,mario jose fernandez
+276,adriana torres rico quevedo
+277,eric jesus cordoba arroyo
+278,andrew hetzel
+279,julio cesar robles flores
+280,masamichi hiroike
+281,juana rodriguez gutierrez
+282,gonzalo de aquino flores
+283,chocolatiers finos de exportacion s de r.l.
+284,juan avenamar rodriguez funez
+285,sustainable harvest cocoa
+286,damaso martinez perez
+287,octavio augusto diaz trejo
+288,ugacof
+289,"productores de especialidad emiliano zapeata, spr."
+290,katuka development trust ltd
+291,juan garcia hernandez
+292,francisco ruiz nunez
+293,rosario miguel hernandez
+294,pablo cervantes morelos        
+295,gustavo amieva gonzalez
+296,samuel eli gurel
+297,gustavo abarca solis
+298,kasozi cocoa farmers association
+299,stephany escamilla femat
+300,homero antonio de anda andrade
+301,william ho
+302,nitubaasa ltd
+303,guillermo eduardo bobadilla muguira
+304,mannya cocoa project
+305,francisco hernandez lorenzo
+306,martin jimenez casiano
+307,"grupo juvenil magtayani, ac"
+308,myrna roxana galvez gonzalez
+309,eugene holman pew
+310,luis robles
+311,james moore
+312,jose armando norberto borzani lemini
+313,ricardo aaron sampieri marini
+314,juan carlos garcia lopez
